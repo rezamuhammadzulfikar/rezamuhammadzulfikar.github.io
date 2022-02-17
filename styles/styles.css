@@ -462,7 +462,7 @@ header .follow a:hover{
 
 /* UNTUK MEMBUAT ANIMASI PADA IMG DI BAGIAN PORTFOLIO */
 .portfolio .box-container .box:hover img{
-    height: 81%;
+    height: 80%;
     width: 100%;
 }
 
